@@ -99,14 +99,23 @@ Lot 3: p-value = .04168, alpha = .05
 # Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
 When comparing MechaCar to its competitor’s other metrics that could be of interest to a consumer could include cost, car color, city fuel efficiency, highway fuel efficiency, horsepower, maintenance cost, or safety rating.
-  1. What metric or metrics are you going to test?
-     The next metrics to test should be the safety rating, horsepower, and highway fuel efficiency, which address some safety concerns of consumers.
-     
-  2. What is the null hypothesis or alternative hypothesis?
-     The null hypothesis is that the mean of the safety rating is zero. The alternative hypothesis is that the mean of the safety rating is not zero.
+
+ 1. What metric or metrics are you going to test?
     
-  3. What statistical test would you use to test the hypothesis? And why?
-     Using a multiple linear regression statistical summary would show how the variables impact the safety ratings for MechaCar and their competitors.
+    The next metrics we can test should be the safety rating, cost efficiency, horsepower, and highway fuel efficiency, which address some safety concerns of           consumers.This can be more useful information for our company and our consumers as we can improve product quality and get an upper hand on our competition.
      
-  4. What data is needed to run the statistical test?
-     A random sample of n > 30 for MechaCar and their competitor, would need to be collected including the safety ratings, highway fuel efficiency, and horsepower plus      running the data through RStudio.
+  
+ 2. What is the null hypothesis or alternative hypothesis?
+  
+    The null hypothesis is that the mean of the safety rating is zero. 
+    The alternative hypothesis is that the mean of the safety rating is not zero.
+    
+ 
+ 3. What statistical test would you use to test the hypothesis? And why?
+ 
+    Using a multiple linear regression statistical summary would show how the variables impact the safety ratings for MechaCar and their competitors.
+     
+ 
+ 4. What data is needed to run the statistical test?
+ 
+    A random sample of n > 30 for MechaCar and their competitor, would need to be collected including the safety ratings, cost, highway fuel efficiency, and horsepower     plus running and analyze the data through RStudio.
